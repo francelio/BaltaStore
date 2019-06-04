@@ -1,0 +1,14 @@
+c:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Api.deps.json
+c:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Api.runtimeconfig.json
+c:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Api.runtimeconfig.dev.json
+c:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Api.dll
+c:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Api.pdb
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.csprojAssemblyReference.cache
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.csproj.CoreCompileInputs.cache
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.RazorAssemblyInfo.cache
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.RazorAssemblyInfo.cs
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.AssemblyInfoInputs.cache
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.AssemblyInfo.cs
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.RazorTargetAssemblyInfo.cache
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.dll
+c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.pdb
