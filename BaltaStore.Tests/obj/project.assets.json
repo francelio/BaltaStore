@@ -5827,11 +5827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+      "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
       "projectName": "BaltaStore.Tests",
-      "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+      "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
       "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-      "outputPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\obj\\",
+      "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5875,7 +5875,6 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
