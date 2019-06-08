@@ -9,7 +9,7 @@ namespace BaltaStore.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            var c = new Customer(
+             var c = new Customer(
                 "Francelio",
                 "Alencar",
                 "12345432",
@@ -17,6 +17,12 @@ namespace BaltaStore.Tests
                 "123223321",
                 "Rua teste 30"
             );
+            
+            var order = new Order(c);
+            order.AddItem();
+
+
+           
 
         }
     }

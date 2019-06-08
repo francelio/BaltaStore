@@ -25,5 +25,10 @@ namespace BaltaStore.Domain.StoreContext.Entities
         public string Email { get; private set; }
         public string Phone { get; private set; }
         public string Address { get; private set; }
+        //sobrecrevendo o metodo Tostring caso contrario return namespace+custumer
+        public override string ToString()
+        {
+            return $"{FistName} {LastName}";
+        }
     }
 }
