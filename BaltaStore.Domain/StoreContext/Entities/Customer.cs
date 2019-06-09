@@ -1,34 +1,32 @@
+using BaltaStore.Domain.StoreContext.ValueObjects;
 using System;
+using System.Collections.Generic;
 
 namespace BaltaStore.Domain.StoreContext.Entities
 {
     public class Customer
 	{
         public Customer(
-            string fistName,
-            string lastName,
-            string document,
-            string email,
-            string phone,
-            string address)
+            Name name,
+            Document document,
+            Email email,
+            string phone)
         {
-            FistName = fistName;
-            LastName = lastName;
+			Name = Name;
             Document = document;
             Email = email;
             Phone = phone;
-            Address = address;
+			Addresses = new List<Address>();
         }
-        public string FistName { get; private set; }
-        public string LastName { get; private set; }
-        public string Document { get; private set; }
-        public string Email { get; private set; }
+		public Name Name { get; private set; }
+		public Document Document { get; private set; }
+        public Email Email { get; private set; }
         public string Phone { get; private set; }
-        public string Address { get; private set; }
+        public IReadOnlyCollection<Address> Addresses { get; private set; }
         //sobrecrevendo o metodo Tostring caso contrario return namespace+custumer
         public override string ToString()
         {
-            return $"{FistName} {LastName}";
+            return Name.ToString();
         }
     }
 }
