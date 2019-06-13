@@ -15,3 +15,5 @@ c:\01-estudos\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tes
 C:\01-estudos\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
 C:\01-estudos\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
 C:\01-estudos\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csproj.CopyComplete
+c:\01-estudos\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Shared.dll
+c:\01-estudos\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Shared.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
+    "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
   },
   "projects": {
-    "c:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
+    "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "projectName": "BaltaStore.Infra",
-        "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
+        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-        "outputPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\obj\\",
+        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

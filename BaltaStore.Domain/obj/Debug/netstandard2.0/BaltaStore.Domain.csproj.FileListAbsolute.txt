@@ -7,3 +7,6 @@ c:\01-estudos\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.D
 c:\01-estudos\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
 c:\01-estudos\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
 c:\01-estudos\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+c:\01-estudos\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+c:\01-estudos\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+c:\01-estudos\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CopyComplete
