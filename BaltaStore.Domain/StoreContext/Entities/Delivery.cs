@@ -1,10 +1,11 @@
 using System;
 using BaltaStore.Domain.StoreContext.Enums;
+using BaltaStore.Shared.Entities;
 using FluentValidator;
 
 namespace BaltaStore.Domain.StoreContext.Entities
 {
-	public class Delivery : Notifiable
+	public class Delivery : Entity
 	{
 		public Delivery(DateTime estimatedDeliveryDate)
 		{
@@ -17,12 +18,12 @@ namespace BaltaStore.Domain.StoreContext.Entities
 		public EDeliveryStatus Status { get; private set; }
 		public void Ship()
 		{
-			//se a data estimada da entrega for no passado não entregar
+			//se a data estimada da entrega for no passado nï¿½o entregar
 			Status = EDeliveryStatus.Shipped;
 		}
 		public void Cancel()
 		{
-			//se o status ja estiver entregue , não pode cancelar
+			//se o status ja estiver entregue , nï¿½o pode cancelar
 			Status = EDeliveryStatus.Canceled;
 		}
 	}
