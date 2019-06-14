@@ -1,4 +1,3 @@
-using System;
 using BaltaStore.Domain.StoreContext.CustomerCommands.Inputs;
 using BaltaStore.Domain.StoreContext.Entities;
 using BaltaStore.Domain.StoreContext.Repositories;
@@ -9,14 +8,14 @@ using FluentValidator;
 
 namespace BaltaStore.Domain.StoreContext.Handlers
 {
-    public class CustomerHandlers : 
+    public class CustomerHandler : 
         Notifiable, 
         ICommandHandler<CreateCustomerCommand>,
         ICommandHandler<AddAddressCommand>
     {
         private readonly ICustomerRepository _repository;
         private readonly IEmailService _emailService;
-         public CustomerHandlers(ICustomerRepository repository,IEmailService emailService)
+         public CustomerHandler(ICustomerRepository repository,IEmailService emailService)
         {
             _repository = repository;
             _emailService = emailService;
