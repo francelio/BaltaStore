@@ -12,3 +12,8 @@ c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.A
 c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.RazorTargetAssemblyInfo.cache
 c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.dll
 c:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Shared.dll
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Shared.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.csproj.CopyComplete
