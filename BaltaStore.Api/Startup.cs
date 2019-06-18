@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BaltaStore.Domain.StoreContext.Handlers;
 using BaltaStore.Domain.StoreContext.Repositories;
 using BaltaStore.Domain.StoreContext.Services;
 using BaltaStore.Infra.DataContexts;
@@ -22,6 +23,7 @@ namespace BaltaStore.Api
             services.AddScoped<BaltaDataContext,BaltaDataContext>();//Version se tem um na memoria e usa
             services.AddTransient<ICustomerRepository,CustomerRepository>();//instância um novo
             services.AddTransient<IEmailService,EmailService>();
+            services.AddTransient<CustomerHandler,CustomerHandler>();
         }
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
