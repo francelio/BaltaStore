@@ -7,3 +7,8 @@ c:\01-estudos\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.In
 c:\01-estudos\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
 c:\01-estudos\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
 c:\01-estudos\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\01-estudos\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\01-estudos\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\01-estudos\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csproj.CopyComplete

@@ -4,6 +4,67 @@
     "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {}
   },
   "projects": {
+    "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "projectName": "BaltaStore.Domain",
+        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.webmotors.com.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +73,70 @@
         "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\BaltaStore.Infra.csproj",
         "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
         "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.webmotors.com.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+                "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
+              },
+              "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectName": "BaltaStore.Shared",
+        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,9 +167,9 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Dapper": {
+            "FluentValidator": {
               "target": "Package",
-              "version": "[1.60.9, )"
+              "version": "[2.0.4, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

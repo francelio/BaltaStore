@@ -17,3 +17,5 @@ C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Share
 C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
 C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Shared.pdb
 C:\01-estudos\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.1\BaltaStore.Api.csproj.CopyComplete
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Infra.dll
+C:\01-estudos\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.1\BaltaStore.Infra.pdb

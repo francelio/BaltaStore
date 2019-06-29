@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {}
+    "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+    "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "projectUniqueName": "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
         "projectName": "BaltaStore.Domain",
-        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+        "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
         "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\obj\\",
+        "outputPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
-                "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
+              "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+                "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
+    "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectUniqueName": "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
         "projectName": "BaltaStore.Shared",
-        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+        "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
         "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\obj\\",
+        "outputPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {
+    "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+        "projectUniqueName": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
         "projectName": "BaltaStore.Tests",
-        "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+        "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
         "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
-        "outputPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\obj\\",
+        "outputPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -149,8 +149,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
-                "projectPath": "C:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
+              "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj": {
+                "projectPath": "c:\\01-estudos\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj"
               }
             }
           }
